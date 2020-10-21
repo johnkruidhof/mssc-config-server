@@ -19,7 +19,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring.cloud.version>2.2.5.RELEASE</spring.cloud.version>
-		<docker.image.prefix>sfgbeerworks</docker.image.prefix>
+		<docker.image.prefix>johnkruidhof</docker.image.prefix>
 		<docker.image.name>${project.artifactId}</docker.image.name>
 	</properties>
 
